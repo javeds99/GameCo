@@ -20,7 +20,8 @@ This project aimed to use data from GameCo's database to find insights that woul
 
 
 **Top 10 Main Publishers by Region:**
-![Screenshot (144)](https://user-images.githubusercontent.com/93872864/142057363-7a361045-2670-4769-82f8-9390158c21e5.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/93872864/142057456-23845728-b939-459c-9a4f-98c235fcff34.png)
+
 
 
 
