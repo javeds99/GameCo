@@ -7,3 +7,6 @@ This project aimed to use data from GameCo's database to find insights that woul
 - Have any games decreased or increased in popularity overtime?
 - How have sale figures varied through different regions over time? 
 
+**Most Popular Genres:**
+
+
