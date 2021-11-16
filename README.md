@@ -8,10 +8,13 @@ This project aimed to use data from GameCo's database to find insights that woul
 - How have sale figures varied through different regions over time? 
 
 
+
 **Most Popular Genres:**
 
 ![Screenshot (135)](https://user-images.githubusercontent.com/93872864/142043411-5b8ce79e-01ae-459a-8a45-18cdafea92b3.png)
 
 
+
 **Top 10 Main Publishers by Region:**
+
 
