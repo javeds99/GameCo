@@ -15,7 +15,8 @@ This project aimed to use data from GameCo's database to find insights that woul
 
 **Most Popular Genres:**
 
-![Screenshot (135)](https://user-images.githubusercontent.com/93872864/142043411-5b8ce79e-01ae-459a-8a45-18cdafea92b3.png)
+![Screenshot (143)](https://user-images.githubusercontent.com/93872864/142055763-14a0130d-f4d3-4e56-9ebc-0e633d75f02f.png)
+
 
 
 **Top 10 Main Publishers by Region:**
