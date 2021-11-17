@@ -24,6 +24,10 @@ This project aimed to use data from GameCo's database to find insights that woul
   
  <ins>**Increase/Decrease in Popularity of Certain Games:**<ins/>
    
+   ![Screenshot (147)](https://user-images.githubusercontent.com/93872864/142096499-ce14b28f-ef5f-4674-9f3a-adbf6fc0d3e1.png)
+
+   - 2008 was the peak year in sales
+   
  
 
 
