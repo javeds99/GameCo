@@ -36,7 +36,7 @@ This project aimed to use data from GameCo's database to find insights that woul
    
 <ins>**Summary:**<ins/>
   
-The most valuable markets are North America and Europe. 
+GameCo's sales have been falling drastically since 2009. The most valuable markets are North America and Europe. The data suggests that genres perform differently in each region. It would be in GameCo's best interest to develop popular games, as well as cater to each region.
    
  
 
