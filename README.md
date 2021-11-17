@@ -28,6 +28,11 @@ This project aimed to use data from GameCo's database to find insights that woul
 
    - 2008 was the peak year in sales
    
+
+   ![Screenshot (148)](https://user-images.githubusercontent.com/93872864/142096770-ff5f623d-da43-4e82-b3f7-f1afa79e9bb1.png)
+
+   - 2016 recorded a historic low sales. Noticeably, Misc. games fell from the top 3 to #9
+   
  
 
 
