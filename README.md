@@ -13,7 +13,7 @@ This project aimed to use data from GameCo's database to find insights that woul
 ![Screenshot (137)](https://user-images.githubusercontent.com/93872864/142053392-880b758b-3439-45ea-815f-73f63326fa31.png)
 
 
-**Most Popular Genres:**
+<u>**Most Popular Genres:**<u>
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/93872864/142055763-14a0130d-f4d3-4e56-9ebc-0e633d75f02f.png)
 
