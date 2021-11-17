@@ -8,7 +8,7 @@ This project aimed to use data from GameCo's database to find insights that woul
 - How have sale figures varied through different regions over time? 
 
 
-**GameCo's Sale Figures Over Time Across Each Region:**
+<ins>**GameCo's Sale Figures Over Time Across Each Region:**<ins/>
 
 ![Screenshot (137)](https://user-images.githubusercontent.com/93872864/142053392-880b758b-3439-45ea-815f-73f63326fa31.png)
 
